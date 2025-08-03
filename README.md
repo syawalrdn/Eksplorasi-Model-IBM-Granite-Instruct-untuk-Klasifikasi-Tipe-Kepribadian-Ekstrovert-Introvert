@@ -102,7 +102,7 @@ Model **IBM Granite Instruct** menunjukkan potensi besar dalam klasifikasi kepri
 ## 📬 Kontak
 
 Made by **Muh. Syahwal**  
-📧 Email: *[tambahkan email Anda]*  
+📧 Email: *muh.syahwal@gmail.com*  
 📍 Indonesia
 
 
